@@ -1,0 +1,20 @@
+.researchdoc {
+  color:#2f2f2f;
+}
+
+.abstract {
+  text-align: justify; 
+}
+
+details summary {
+cursor: pointer;
+transition: margin 500ms ease-out;
+margin-top: 0.25rem;
+margin-left: 0.1rem;
+letter-spacing:2px;
+font-family:'Maven Pro';
+}
+
+details[open] summary {
+margin-bottom: 10px;
+}
