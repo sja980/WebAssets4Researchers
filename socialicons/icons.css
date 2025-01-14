@@ -1,0 +1,10 @@
+.fa-brands, .fa-solid {
+	transition-duration: 0.4s;
+  margin: 20px 10px;
+  color: #2f2f2f;
+}
+
+.fa-brands:hover, .fa-solid:hover {
+  	cursor: pointer;
+    transform: scale(1.5);
+}
